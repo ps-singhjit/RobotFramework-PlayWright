@@ -2,4 +2,4 @@
 
 ## Install Nodejs, Python
 
-## Install robotframework (pip install robotframework), robotframework-browser
+## Install robotframework (pip install robotframework), robotframework-browser, robotframework-seleniumlibrary
